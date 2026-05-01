@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/johncaumpoy-crypto/Grow-a-garden-script/refs/heads/main/GAG%20SCRIPT"))()
